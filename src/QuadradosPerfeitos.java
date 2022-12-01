@@ -68,6 +68,5 @@ public class QuadradosPerfeitos {
 
             out.println(resultado);
 
-
         }
     }
